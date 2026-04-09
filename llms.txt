@@ -1,0 +1,25 @@
+# Default Judgment -- How to Vacate & Respond [2026] -- Defaultjudgment
+> Got a default judgment against you? Learn how to vacate it, respond late, and protect your assets. Step-by-step 2026 guide.
+
+## About
+defaultjudgment.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- After Vacating a Default Judgment -- What Happens Next -- Defaultjudgment: https://defaultjudgment.org/after-vacating.html
+- Default Judgment and Wage Garnishment -- How to Stop and Prevent It -- Defaultjudgment: https://defaultjudgment.org/default-judgment-and-garnishment.html
+- Grounds for Vacating a Default Judgment -- Legal Bases That Work -- Defaultjudgment: https://defaultjudgment.org/grounds-for-vacating.html
+- How to Vacate a Default Judgment -- Step-by-Step Guide -- Defaultjudgment: https://defaultjudgment.org/how-to-vacate.html
+- Improper Service Defense -- Challenging Defective Service of Process -- Defaultjudgment: https://defaultjudgment.org/improper-service-defense.html
+- Default Judgment -- How to Vacate & Respond [2026] -- Defaultjudgment: https://defaultjudgment.org/
+- Meritorious Defense Requirement -- Proving You Have a Case Worth Hearing -- Defaultjudgment: https://defaultjudgment.org/meritorious-defense.html
+- Motion to Vacate Default Judgment Template -- Free Sample Filing -- Defaultjudgment: https://defaultjudgment.org/motion-to-vacate-template.html
+- Time Limits to Vacate Default Judgments by State -- Defaultjudgment: https://defaultjudgment.org/time-limits-by-state.html
+- What Is a Default Judgment? -- How Creditors Win Without a Trial -- Defaultjudgment: https://defaultjudgment.org/what-is-default-judgment.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
