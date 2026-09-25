@@ -1,5 +1,5 @@
-# Default Judgment - How to Vacate & Respond [2026] - Defaultjudgment
-> Last updated: 2026-05-01
+# Default Judgment - How to Vacate &amp; Respond [2026]
+> Last updated: 2026-09-25
 
 > Got a default judgment against you? Learn how to vacate it, respond late, and protect your assets. Step-by-step 2026 guide.
 
@@ -7,18 +7,71 @@
 defaultjudgment.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- After Vacating a Default Judgment - What Happens Next - Defaultjudgment: https://defaultjudgment.org/after-vacating.html
-- Default Judgment and Wage Garnishment - How to Stop and Prevent It - Defaultjudgment: https://defaultjudgment.org/default-judgment-and-garnishment.html
-- Grounds for Vacating a Default Judgment - Legal Bases That Work - Defaultjudgment: https://defaultjudgment.org/grounds-for-vacating.html
-- How to Vacate a Default Judgment - Step-by-Step Guide - Defaultjudgment: https://defaultjudgment.org/how-to-vacate.html
-- Improper Service Defense - Challenging Defective Service of Process - Defaultjudgment: https://defaultjudgment.org/improper-service-defense.html
-- Default Judgment - How to Vacate & Respond [2026] - Defaultjudgment: https://defaultjudgment.org/
+- After Vacating a Default Judgment [2026]: Case Reactivation, Garnishment Release, and Settlement Negotiation: https://defaultjudgment.org/after-vacating.html
+- Default Judgment and Wage Garnishment [2026]: CCPA 15 USC 1673 25 Percent Cap and Vacate Procedure: https://defaultjudgment.org/default-judgment-and-garnishment.html
+- Grounds for Vacating Default Judgment [2026]: FRCP 60(b) Six Bases and State Equivalents: https://defaultjudgment.org/grounds-for-vacating.html
+- How to Vacate a Default Judgment - Step-by-Step Guide: https://defaultjudgment.org/how-to-vacate.html
+- Improper Service Defense [2026]: FRCP 4 Substituted Service Requirements and Void Judgment Theory: https://defaultjudgment.org/improper-service-defense.html
+- Default Judgment - How to Vacate &amp; Respond: https://defaultjudgment.org/
 - Meritorious Defense Requirement - Proving You Have a Case Worth Hearing - Defaultjudgment: https://defaultjudgment.org/meritorious-defense.html
-- Motion to Vacate Default Judgment Template - Free Sample Filing - Defaultjudgment: https://defaultjudgment.org/motion-to-vacate-template.html
-- Time Limits to Vacate Default Judgments by State - Defaultjudgment: https://defaultjudgment.org/time-limits-by-state.html
-- A Default Judgment Was Entered Against You - What Happens Next - Defaultjudgment: https://defaultjudgment.org/what-happens-next.html
-- What Is a Default Judgment? - How Creditors Win Without a Trial - Defaultjudgment: https://defaultjudgment.org/what-is-default-judgment.html
+- Motion to Vacate Default Judgment Template - Free Sample Filing: https://defaultjudgment.org/motion-to-vacate-template.html
+- Time Limits to Vacate Default Judgments by State [2026]: 30-Day to 2-Year Windows Plus FRCP 60(b)(4) Void Exception: https://defaultjudgment.org/time-limits-by-state.html
+- A Default Judgment Was Entered Against You - What Happens Next: https://defaultjudgment.org/what-happens-next.html
+- What Is a Default Judgment [2026]: FRCP 55 Procedure When Defendant Does Not Respond: https://defaultjudgment.org/what-is-default-judgment.html
 - Privacy Policy: https://defaultjudgment.org/privacy.html
+- About defaultjudgment.org: https://defaultjudgment.org/about.html
+- Alabama Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/alabama.html
+- Alaska Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/alaska.html
+- Arizona Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/arizona.html
+- Arkansas Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/arkansas.html
+- California Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/california.html
+- Colorado Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/colorado.html
+- Connecticut Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/connecticut.html
+- Delaware Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/delaware.html
+- District of Columbia Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/district-of-columbia.html
+- Florida Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/florida.html
+- Georgia Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/georgia.html
+- Hawaii Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/hawaii.html
+- Idaho Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/idaho.html
+- Illinois Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/illinois.html
+- Default Judgment Vacatur Rules by State: https://defaultjudgment.org/states/
+- Indiana Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/indiana.html
+- Iowa Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/iowa.html
+- Kansas Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/kansas.html
+- Kentucky Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/kentucky.html
+- Louisiana Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/louisiana.html
+- Maine Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/maine.html
+- Maryland Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/maryland.html
+- Massachusetts Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/massachusetts.html
+- Michigan Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/michigan.html
+- Minnesota Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/minnesota.html
+- Mississippi Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/mississippi.html
+- Missouri Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/missouri.html
+- Montana Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/montana.html
+- Nebraska Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/nebraska.html
+- Nevada Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/nevada.html
+- New Hampshire Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/new-hampshire.html
+- New Jersey Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/new-jersey.html
+- New Mexico Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/new-mexico.html
+- New York Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/new-york.html
+- North Carolina Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/north-carolina.html
+- North Dakota Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/north-dakota.html
+- Ohio Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/ohio.html
+- Oklahoma Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/oklahoma.html
+- Oregon Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/oregon.html
+- Pennsylvania Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/pennsylvania.html
+- Rhode Island Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/rhode-island.html
+- South Carolina Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/south-carolina.html
+- South Dakota Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/south-dakota.html
+- Tennessee Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/tennessee.html
+- Texas Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/texas.html
+- Utah Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/utah.html
+- Vermont Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/vermont.html
+- Virginia Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/virginia.html
+- Washington Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/washington.html
+- West Virginia Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/west-virginia.html
+- Wisconsin Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/wisconsin.html
+- Wyoming Default Judgment Rules: How to Vacate: https://defaultjudgment.org/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
